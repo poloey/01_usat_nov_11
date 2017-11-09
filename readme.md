@@ -1,7 +1,19 @@
-# class 01
+# [:house: Feni UY Sun  Batch Home Page](http://poloey.github.io/feni-uy-sun)
+# Class 01
+## Outline
 
-# Essential software for developing 
+* Html, css, Js, Jquery - 30 hours
+* PHP - 60 hours
+* Mysql - 20 hours
+* Wordpress, blogging, ecommerce - 20 hours
+* Laravel - 30 hours
+* project - 80 hours
+* soft skills - 60 hours
 
-* code editor [vscode](https://code.visualstudio.com/) or [sublime](http://www.sublimetext.com/)
-* for terminal [git](https://git-scm.com/)
-* for frontend package [node](https://nodejs.org/en/)
+
+
+# Software requirement for developing 
+
+* [Nodejs](https://nodejs.org/en/)
+* Code editor - [VScode](https://code.visualstudio.com/) or [Sublime text](https://www.sublimetext.com/)
+* [git](https://git-scm.com/)
