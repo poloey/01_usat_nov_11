@@ -63,12 +63,13 @@ pwd
 
 ### to quick read file
 ~~~
-cat <filename> = to read some content
+cat <filename> 
 ~~~
 
 ## flag always start with `-`
-* `-r`  means recursive
-* `-f` force
+* `r` recursive
+* `f` force
+* `a` all
 
 ## identification
 * `.` means current folder
