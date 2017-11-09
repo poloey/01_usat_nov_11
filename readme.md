@@ -20,13 +20,17 @@
 
 # linux command (git bash in windows) 
 ---
+
 ### to change directory
 ~~~
 cd <folderName>
 ~~~
 ### to create a file
+~~~
 touch <fileName> 
 ~~~
+
+
 ### to make a directory
 ~~~
 mkdir  <folderName>
