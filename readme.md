@@ -1,4 +1,4 @@
-# [:house: Feni UY Sun  Batch Home Page](http://poloey.github.io/feni-uy-sun)
+# [:house: Feni UY Sun  Batch Home Page](http://poloey.github.io/usun)
 # Class 01
 ## Outline
 
@@ -20,16 +20,19 @@
 
 # linux command (git bash in windows) 
 ---
+command: `cd` `touch` `mkdir` `cp` `mv` `rm` `pwd` `ls` `cat`    
+flag: flag always start with `-`. `r` - recursive, `a` - all, `f` - force     
+identifiers: `*` - everything, `.` - current directory, `..` parent directory
+
 
 ### to change directory
 ~~~
 cd <folderName>
 ~~~
-### to create a file
+### to make a file
 ~~~
 touch <fileName> 
 ~~~
-
 
 ### to make a directory
 ~~~
@@ -38,17 +41,17 @@ mkdir  <folderName>
 
 ### to copy 
 ~~~
-cp <path1> <path2>
+cp <copyPath> <pastePath>
 ~~~
 
 ### to move
 ~~~
-mv <path1> <path2>
+mv <copyPath> <pastePath>
 ~~~
 
 ### to see what inside a directory
 ~~~
-ls / dir 
+ls
 ~~~
 
 ### to remove file
@@ -66,12 +69,3 @@ pwd
 cat <filename> 
 ~~~
 
-## flag always start with `-`
-* `r` recursive
-* `f` force
-* `a` all
-
-## identification
-* `.` means current folder
-* `..` means parent folder
-* `*` means everything
