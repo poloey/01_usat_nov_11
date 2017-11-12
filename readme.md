@@ -20,9 +20,9 @@
 
 # linux command (git bash in windows) 
 ---
-command: `cd` `touch` `mkdir` `cp` `mv` `rm` `pwd` `ls` `cat`    
-flag: flag always start with `-`. `r` - recursive, `a` - all, `f` - force     
-identifiers: `*` - everything, `.` - current directory, `..` parent directory
+**command:** `cd` `touch` `mkdir` `cp` `mv` `rm` `pwd` `ls` `cat`    
+**flag:** flag always start with `-`. `r` - recursive, `a` - all, `f` - force     
+**Identifiers:** `*` - everything, `.` - current directory, `..` parent directory
 
 
 ### to change directory
