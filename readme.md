@@ -1,4 +1,4 @@
-# [:house: Feni UY Sun  Batch Home Page](http://poloey.github.io/usat)
+# [:house: Feni UY Sat  Batch Home Page](http://poloey.github.io/usat)
 # Class 01
 ## Outline
 
